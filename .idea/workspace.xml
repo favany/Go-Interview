@@ -5,21 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d97935ba-077a-4abe-a93a-99ea4fda597d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Go_By_Example/10.Map/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Go_By_Example" beforeDir="false" afterPath="$PROJECT_DIR$/Go_By_Example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Go_By_Example/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Go_By_Example/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Go_By_Example/.idea/Go_By_Example.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Go_By_Example/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Go_By_Example/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Go_By_Example/9.Slice/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_By_Example/9.Slice/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Go_By_Example/9.Slice/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Go_By_Example/9.Slice/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Go_By_Example/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Go_By_Example/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Question/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Question/.idea/interview.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Question/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Question/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Question/.idea/workspace.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Go By Example/11.Range/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Go By Example/11.Range/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview Questions/x31/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview Questions/x31/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview Questions/x32/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview Questions/x32/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview Questions/x34/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview Questions/x34/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +30,7 @@
   </component>
   <component name="GOROOT" url="file:///usr/local/go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Go_By_Example" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
@@ -48,6 +43,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -59,15 +55,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable..is.expanded" value="false" />
+    <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
     <property name="go.formatter.settings.were.checked" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.watchers.conflict.with.on.save.actions.check.performed" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="goland.project.structure" />
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go (2)">
+  <component name="RunManager" selected="Go Build.go build main.go (4)">
     <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="interview" />
       <working_directory value="$PROJECT_DIR$" />
@@ -84,6 +82,22 @@
       <filePath value="$PROJECT_DIR$/x29/main.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="interview" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Interview Questions/x32/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="interview" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Interview Questions/x34/main.go" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="interview" />
       <working_directory value="$PROJECT_DIR$" />
@@ -94,6 +108,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go (4)" />
+        <item itemvalue="Go Build.go build main.go (3)" />
         <item itemvalue="Go Build.go build main.go (2)" />
         <item itemvalue="Go Build.go build main.go (1)" />
         <item itemvalue="Go Build.go build main.go" />
@@ -117,6 +133,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Go_By_Example" />
+      <path value="$PROJECT_DIR$/Question" />
+    </ignored-roots>
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
