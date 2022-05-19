@@ -9,10 +9,10 @@ type S struct {
 }
 
 func f() *S {
-    return "foo"  //A
+    return &S{}  //A
 }
 
 func main() {
-  p := S{m:f}   //B
-    fmt.Println(p.m) //print "foo"
+  p := S{m:"foo"}   //B
+  fmt.Println(p.m) //print "foo"
 }

@@ -5,16 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d97935ba-077a-4abe-a93a-99ea4fda597d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Go By Example/11.Range/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Go By Example/11.Range/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview Questions/x31/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview Questions/x31/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview Questions/x32/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview Questions/x32/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview Questions/x34/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview Questions/x34/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go By Example/10.Map/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go By Example/11.Range/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go By Example/11.Range/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go By Example/8.Array/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go By Example/8.Array/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go By Example/9.Slice/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go By Example/9.Slice/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go By Example/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x1/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x14/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x14/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x16/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x16/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x20/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x21/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x21/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x22/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x22/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x26/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x26/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x27/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x27/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x28/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x29/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x29/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x30/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x30/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x31/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x31/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x32/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x32/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x34/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x34/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x8/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x8/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x9/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Questions/x9/readme.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +75,7 @@
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
@@ -63,7 +93,7 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.watchers.conflict.with.on.save.actions.check.performed" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="goland.project.structure" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
   <component name="RunManager" selected="Go Build.go build main.go (4)">
     <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
